@@ -1,0 +1,16 @@
+//Styles only applied to home page
+.intro-icon {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 0 auto;
+  object-position: center center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
